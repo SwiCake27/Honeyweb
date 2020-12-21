@@ -1,0 +1,69 @@
+
+.title{
+    border:solid;
+    margin:100px;
+    padding:100px;
+
+color:rgb(202, 121, 0);
+background-color: #974900;
+}
+.Camels{
+    border:solid;
+color:darkgoldenrod;
+background-color: #b15500
+}
+.Pigeon {
+    border:solid;
+    color:darkgoldenrod;
+    background-color: #af651f
+  }
+  .Panda {
+    border:solid;
+    color:darkgoldenrod;
+    background-color: #b15500
+  }
+  .Teddy {
+    border:solid;
+    color:darkgoldenrod;
+    background-color: #af651f
+  }
+  .Cicada {
+    border:solid;
+    color:darkgoldenrod;
+    background-color: #b15500
+  }
+  .Chameleon {
+    border:solid;
+    color:darkgoldenrod;
+    background-color:#b15500
+  }
+  h2{
+      color:rgb(0, 0, 0)
+  }
+  h1{
+color:rgb(211, 127, 1)
+  }
+  .desiegn{
+      display:flex;
+   
+      flex-direction: row;
+      border:solid;
+      color:peru   ;
+ margin:100px;
+    padding:100px;
+      background-color: chocolate;
+  }
+  body{
+    columns: #ca8e1d;
+    background-color: goldenrod
+  }
+a:link {
+color: rgb(63, 38, 0);
+}
+a:visited {
+  color: rgb(0, 0, 0);
+}
+ 
+.desiegn:hover img{
+    opacity: 0.10;
+}
